@@ -1,0 +1,31 @@
+div {
+  display: inline-block;
+  border: 0.5px solid rgb(124, 122, 122);
+  width: 200px;
+  height: 200px;
+}
+
+.vermelha{
+  background-color: red;
+  }
+
+.azul{
+  background-color: rgba(26, 26, 232, 0.926);
+}
+
+.amarelo{
+  background-color: yellow;
+}
+
+.verde{
+  background-color: rgb(9, 162, 9);
+}
+
+#borda{
+  border: 1px solid black
+}
+
+.canto:hover{
+  background-color: rgb(84, 8, 68)
+
+}
